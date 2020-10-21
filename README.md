@@ -1,16 +1,17 @@
-# color_picker
+# Color Picker
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+git clone <a href="https://github.com/fs0sp/Social-Media-Color-Palette.git">https://github.com/fs0sp/Social-Media-Color-Palette.git</a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Dependencies
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<ul>
+    <li>cupertino_icons: ^1.0.0 </li>
+    <li>clipboard: ^0.1.2+8 </li>
+    <li>responsive_builder: ^0.3.0 </li>
+    <li>responsive_widgets: ^2.0.1 <li>
+</ul>
