@@ -19,7 +19,7 @@ git clone https://github.com/fs0sp/Social-Media-Color-Palette.git
 ### Screenshots :fire:
 
 <img height="800" width="1000" src="screenshots/view_desktop.png"> <br>
-<img height="800" width="600" src="screenshots/view_mobile.png">
+<img height="800" width="700" src="screenshots/view_mobile.png">
 
 
 #### ~ Shivam Pokhriyal
