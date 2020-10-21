@@ -16,10 +16,10 @@ git clone https://github.com/fs0sp/Social-Media-Color-Palette.git
     <li>responsive_widgets: ^2.0.1 </li>
 </ul>
 
-### Screenshots
+### Screenshots :fire:
 
 <img height="800" width="1000" src="screenshots/view_desktop.png"> <br>
-<img height="800" width="300" src="screenshots/view_mobile.png">
+<img height="800" width="600" src="screenshots/view_mobile.png">
 
 
-- Shivam Pokhriyal
+#### ~ Shivam Pokhriyal
